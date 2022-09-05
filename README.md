@@ -1,0 +1,2 @@
+# Diabetic-Retinopathy-Detection-Webapp
+The project is to develop an application which could take the captured picture processes it  and could correctly identify and detect the diabetic level based on the retina image completely offline. It is much needed in a remote areas where there are no muchfacilities,  there should be such automated system which could classify the diabetic level based on the retina image without any specialized doctor’s interference.
